@@ -1,0 +1,1 @@
+/home/razvan/Documents/FotbalRobotic/Template/AlgoritmFotbal-build/CMakeFiles/AlgoritmFotbal.dir

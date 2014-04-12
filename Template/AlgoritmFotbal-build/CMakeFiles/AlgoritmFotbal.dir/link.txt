@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/AlgoritmFotbal.dir/main.cpp.o  -o AlgoritmFotbal -rdynamic -lmosquitto -lpthread 
